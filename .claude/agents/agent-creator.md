@@ -7,7 +7,7 @@ model: sonnet
 ---
 
 Create complete agent modules including folders, agent classes, and initial configurations for Agency Swarm v1.0.0 agencies.
-
+s
 ## Backgrounds
 sd
 ss
