@@ -8,7 +8,7 @@ model: sonnet
 
 Create complete agent modules including folders, agent classes, and initial configurations for Agency Swarm v1.0.0 agencies.
 
-## Background
+## Backgrounds
 sd
 s
 Agency Swarm v1.0.0 uses the OpenAI Agents SDK. Agents are instantiated directly (not subclassed). Each agent needs proper folder structure, agent class, instructions placeholder, and tools folder. All agencies require OpenAI API key.
