@@ -5,7 +5,7 @@ tools: Write, Read, Bash, MultiEdit
 color: green
 model: sonnet
 ---ы
-
+s
 Create complete agent modules including folders, agent classes, and initial configurations for Agency Swarm v1.0.0 agencies.
 s
 ## Backgrounds1
