@@ -6,7 +6,7 @@ color: green
 model: sonnet
 ---ы
 ss
-Create complete agent modules including folders, agent classes, and initial configurations for Agency Swarm v1.0.0 agencies.
+Create co1mplete agent modules including folders, agent classes, and initial configurations for Agency Swarm v1.0.0 agencies.
 s1a
 ## Backgrounds1`
 sd
