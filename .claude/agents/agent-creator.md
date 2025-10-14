@@ -12,7 +12,7 @@ s1a
 sds
 ss1
 Agency Swarm v1.0.0 uses the OpenAI Agents SDK. Agents are instantiated directly (not subclassed). Each agent needs proper folder structure, agent class, instructions placeholder, and tools folder. All agencies require OpenAI API key.
-s
+s1
 ## Inputs
 1s1
 - PRD path with agents, roles, and tool requirements2
