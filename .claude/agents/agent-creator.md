@@ -23,7 +23,7 @@ s
 ## Exact Folder Structure (v1.0.0)
 
 ```
-├── example_agent/
+├── example_agent/s
 │   ├── __init__.py
 │   ├── agent_name.py       # Agent instantiation
 │   ├── instructions.md     # Placeholder for instructions-writer
