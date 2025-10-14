@@ -14,7 +14,7 @@ A production-ready template for deploying [Agency Swarm](https://github.com/VRSE
 Click **"Use this template"** to create your own repository, or:
 
 ```bash
-git clone https://github.com/your-username/agency-github-template.git
+git clone htstps://github.com/your-username/agency-github-template.git
 cd agency-github-templates
 ```
 
