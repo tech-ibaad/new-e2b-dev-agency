@@ -9,7 +9,7 @@ A production-ready template for deploying [Agency Swarm](https://github.com/VRSE
 
 ## 🚀 Quick Start
 
-### 1. Use This Template
+### 1. Use This Templsate
 
 Click **"Use this template"** to create your own repository, or:
 
