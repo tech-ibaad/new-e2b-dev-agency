@@ -15,7 +15,7 @@ Click **"Use this template"** to create your own repository, or:
 
 ```bash
 git clone https://github.com/your-username/agency-github-template.git
-cd agency-github-template
+cd agency-github-templates
 ```
 
 > **🌐 For Production**: Sign up at [agencii.ai](https://agencii.ai/) and use this template for automated cloud deployment
