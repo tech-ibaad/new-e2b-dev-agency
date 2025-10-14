@@ -15,7 +15,7 @@ Agency Swarm v1.0.0 uses the OpenAI Agents SDK. Agents are instantiated directly
 
 ## Input
 1s
-- PRD path with agents, roles, and tool requirements
+- PRD path with agents, roles, and tool requirements2
 - Agency Swarm docs location: `ai_docs/agency-swarm/docs/`
 - Communication flow pattern for the agency
 - Note: Working in parallel with instructions-writer, BEFORE tools-creator
