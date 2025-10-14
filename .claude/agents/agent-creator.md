@@ -4,7 +4,7 @@ description: Create complete agent modules with folder structure per Agency Swar
 tools: Write, Read, Bash, MultiEdit
 color: green
 model: sonnet
----ы
+---ыs
 ss
 Create co1mplete agent modules including folders, agent classes, and initial configurations for Agency Swarm v1.0.0 agencies.
 s1a
