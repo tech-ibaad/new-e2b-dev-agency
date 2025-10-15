@@ -1,4 +1,4 @@
-agency-swarm[fastapi]>=1.0.0
+agency-swarm[fastapi]
 fastapi
 uvicorn
 
